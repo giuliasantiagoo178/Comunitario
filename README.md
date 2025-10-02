@@ -26,7 +26,7 @@ Este site foi criado com carinho e um toque trevoso inspirado no Badtz-Maru, o p
 ## 💌 Contato
 
 Quer participar ou tem dúvidas? Fale com a gente:
-- Email: info@harborlight.com
+- Email: info@Badtz-Maru.com
 
 ---
 
