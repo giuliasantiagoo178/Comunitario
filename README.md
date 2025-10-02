@@ -1,6 +1,5 @@
-# 🖤 Centro Comunitário Harbor Light 🖤
-
-Bem-vindo ao projeto do **Centro Comunitário Harbor Light**!
+# 🖤 Centro Comunitário do Badtz-Maru
+Bem-vindo ao projeto do **Centro Comunitário do Badtz-Maru**!
 
 Este site foi criado com carinho e um toque trevoso inspirado no Badtz-Maru, o pinguim mais rebelde e fofo da Sanrio. Aqui, você encontra informações sobre nossos serviços, eventos e como participar da comunidade.
 
